@@ -50,7 +50,7 @@
 
         <div class="text-center mb-5">
             <a href="{{ route('projects.create') }}" class="btn btn-success btn-lg">
-                Создать новый проект...
+                Создать новый проект....
             </a>
         </div>
 
