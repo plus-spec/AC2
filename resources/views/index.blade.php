@@ -100,7 +100,7 @@
                                 <div class="d-flex justify-content-between align-items-center mb-3">
                                     <h3 class="h5 mb-0">Задачи:</h3>
                                     <a href="{{ route('projects.tasks.create', $project->id) }}" class="btn btn-sm btn-primary">
-                                        + Добавить задачу.
+                                        + Добавить задачу
                                     </a>
                                 </div>
                                 
